@@ -1,0 +1,9 @@
+[
+    { "value": "turkish_airlines", "label": "Turkish Airlines" },
+    { "value": "pegasus_airlines", "label": "Pegasus Airlines" },
+    { "value": "sunexpress", "label": "SunExpress" },
+    { "value": "anadolujet", "label": "AnadoluJet" },
+    { "value": "onur_air", "label": "Onur Air" },
+    { "value": "atlasglobal", "label": "AtlasGlobal" }
+  ]
+  

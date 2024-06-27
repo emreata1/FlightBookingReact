@@ -1,0 +1,61 @@
+.seat-selection-container {
+  max-width: 1050px;
+  margin: 0 auto;
+  
+  border-radius: 10px;
+  text-align: center;
+  background-image: url('../assets/plane.png');
+  background-size: contain; 
+  background-repeat: no-repeat;
+  background-position: center ;
+  height: 500px;
+}
+
+.seat-map {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.seat-row {
+  display: flex;
+  justify-content: center;
+}
+
+.seat {
+
+  width: 30px;
+  height: 30px;
+  margin-left: 4px;
+  margin-right: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.seat.selected {
+  background-color: green;
+  color: white;
+}
+
+.seat.booked {
+  background-color: red;
+  color: white;
+  cursor: not-allowed;
+}
+
+.seat.empty {
+  width: 15px;
+  height: 15px;
+  visibility: hidden;
+}
+
+.info-card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

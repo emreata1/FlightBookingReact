@@ -1,0 +1,15 @@
+.form-container {
+    max-width: 550px;
+    margin: 0 auto;
+    padding: 20px;
+    background: white;
+    border-radius: 5px;
+
+    
+  }
+ 
+
+  .form-item {
+    height: 70px;
+
+  }

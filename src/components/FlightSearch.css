@@ -1,0 +1,40 @@
+.search-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background: white;
+    border-radius: 5px;
+
+    height: 600x;
+  }
+  .ant-layout-content {
+    background: #05203c;
+    height: 1000px;
+    margin: -15px;
+
+  }
+  .custom-select-1 .ant-select-selector {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 15px;
+  }
+  .custom-select-2 .ant-select-selector {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+  .custom-select-3 .ant-select-selector {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+  .custom-select-4 .ant-select-selector {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 5px;
+  }
+  
