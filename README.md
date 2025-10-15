@@ -1,4 +1,4 @@
-✈️ Biletin Burada
+✈️ Biletim Burada
 
 Thousands of flights. All in one place.
 
