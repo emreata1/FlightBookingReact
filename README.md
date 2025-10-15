@@ -1,29 +1,29 @@
 ✈️ Biletin Burada
 
-Binlerce uçuş. Hepsi bir arada.
+Thousands of flights. All in one place.
 
-🔎 Genel Bakış
+🔎 Overview
 
-Biletin Burada, kullanıcıların uçak biletlerini kolayca aramasına, karşılaştırmasına ve satın almasına olanak tanıyan modern bir web uygulamasıdır. Temiz ve kullanıcı dostu arayüzü ile yolculara, temel bilgileri ve rezervasyon adımlarını tek bir platformda birleştirerek kusursuz bir bilet alma deneyimi sunar.
+Biletin Burada is a modern web application that allows users to easily search, compare, and purchase flight tickets. With its clean and user-friendly interface, it offers travelers a seamless ticket-buying experience by combining essential information and booking steps into a single platform.
 
-✨ Temel Özellikler
+✨ Key Features
 
-    👤 Kullanıcı Yönetimi Güvenli kayıt olma, giriş yapma ve kişisel bilgilerin görüntülendiği profil sayfası.
+    👤 User Management Secure registration, login, and a profile page to view personal information.
 
-    🔍 Akıllı Uçuş Arama Kalkış-varış noktası, tarih ve havayoluna göre anında sonuç veren arama motoru.
+    🔍 Smart Flight Search An instant search engine that provides results based on departure-arrival points, dates, and airlines.
 
-    📊 Filtreleme & Sıralama Arama sonuçlarını fiyata veya uçuş süresine göre sıralayarak en ideal bileti bulma kolaylığı.
+    📊 Filter & Sort Easily find the ideal ticket by sorting search results by price or flight duration.
 
-    💺 İnteraktif Koltuk Seçimi Uçak planı üzerinde boş koltukları görüntüleyerek kolayca yerinizi seçme imkanı.
+    💺 Interactive Seat Selection The ability to easily select your seat by viewing available seats on a visual aircraft layout.
 
-    💳 Kolay & Güvenli Ödeme Anlaşılır ödeme formu ile hızlı ve güvenli bilet satın alma işlemi.
+    💳 Easy & Secure Payments A fast and secure ticket purchasing process with a straightforward payment form.
 
-🚀 Amaç
+🚀 Purpose
 
-Biletin Burada, uçak bileti satın alma sürecini basitlik, hız ve şıklık odağında geliştirmek için tasarlanmıştır. Yolcuların ihtiyaç duyduğu tüm araçlara ve bilgilere tek bir bakışta ulaşmasını sağlayarak karmaşıklığı ortadan kaldırır..
+Biletin Burada is designed to enhance the flight ticket purchasing process with a focus on simplicity, speed, and style. It eliminates complexity by giving travelers access to all the necessary tools and information at a single glance.
 
-| Ana Sayfa (Arama) | Uçuş Sonuçları | Koltuk Seçimi |
+| Home (Search) | Flight Results | Seat Selection |
 | :---: | :---: | :---: |
-| ![Ana Sayfa Arama Ekranı](https://i.hizliresim.com/be9ipx6.jpg) | ![Uçuş Sonuçları Ekranı](https://i.hizliresim.com/pvpdxlp.jpg) | ![Koltuk Seçimi Ekranı](https://i.hizliresim.com/k1aea4s.jpg) |
-| **Ödeme Ekranı** | **Kullanıcı Profili** | **Giriş Yap Ekranı** |
-| ![Ödeme Ekranı](https://i.hizliresim.com/bqa7rtf.jpg) | ![Kullanıcı Profili Ekranı](https://i.hizliresim.com/5atpen1.jpg) | ![Giriş Yap Ekranı](https://i.hizliresim.com/ca0bmeo.jpg) |
+| ![Home Search Screen](https://i.hizliresim.com/be9ipx6.jpg) | ![Flight Results Screen](https://i.hizliresim.com/pvpdxlp.jpg) | ![Seat Selection Screen](https://i.hizliresim.com/k1aea4s.jpg) |
+| **Payment Screen** | **User Profile** | **Login Screen** |
+| ![Payment Screen](https://i.hizliresim.com/bqa7rtf.jpg) | ![User Profile Screen](https://i.hizliresim.com/5atpen1.jpg) | ![Login Screen](https://i.hizliresim.com/ca0bmeo.jpg) |
